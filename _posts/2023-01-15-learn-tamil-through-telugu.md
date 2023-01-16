@@ -18,7 +18,7 @@ tags: [general, language]
 |Which    |ఏది               |Edu - ఎదు                      |                                                       |
 
 > Unlike Telugu people, Tamils do not add "-ki" or "-ku" after Interrogatives
-Eg: Telugu: Ekkadi'ki' Veluthunnavu?
+Eg: Telugu: Ekkadi"ki" Veluthunnavu?
         Tamil: Enge Pore? (Telugu Literal: Ekkada Pothunnavu?)
 {: .prompt-info }
 
@@ -29,13 +29,13 @@ Eg: Telugu: Ekkadi'ki' Veluthunnavu?
 | This                                      | ఇది                |Idu - ఇదు                    |
 | That                                      | అది                |Adu - అదు                    |
 | Yes                                       | ఔను                |Aama - ఆమ                   |
-| No, Don't have, doesn't exist, not present| లేదు, కాదు          |Illa, Ille - ఇల్ల, ఇల్లే         |
+| No, Do not have, does not exist, not present| లేదు, కాదు          |Illa, Ille - ఇల్ల, ఇల్లే         |
 | Okay                                      | సరే                 |Sari - సరి                    |
 | Have, exists, present                     | ఉంది               |Irukku - ఇరుక్కు, Undu - ఉండు |
 | Name                                      | పేరు                | Per - పేర్                    |
 | Enough                                    | చాలు                | Podum - పోదుమ్               |
 | Want, Need                                | కావాలి               | Venum - వేణుమ్, <br> Teva - తేవ |
-| Don't want, No need                       | వద్దు                | Vena, Venam - వేణ , వేణామ్     |
+| Do not want, No need                       | వద్దు                | Vena, Venam - వేణ , వేణామ్     |
 | Water                                     | నీరు , నీళ్లు          | Tanni - తన్ని, <br> Tanniru - తన్నీరు|
 | Food                                      | తిండి , భోజనం         | Sappadu - సాప్పాడు                 |
 
@@ -63,7 +63,7 @@ Eg: Telugu: Ekkadi'ki' Veluthunnavu?
 |:-----------------------------|:------------------------|:---------------|:-------------------|
 | Come, <br> Come (Respectful) |రా, <br> రండి             |Vaa - వా, <br> Vaanga - వాంగ|Vaa + nga|
 | Go                           |వెళ్ళు(పో), <br> వెళ్ళండి(పోండి)|Po - పో, <br> Ponga - పోంగ|          |
-| Do                           |చెయ్, <br> చెయ్యండి       |Pannu - పణ్ను, <br>Sey - సెయ్|This is the most common word in conversations, <br>they have the word sey which is very similar to chey in Telugu <br>but it's a formal word for them so they don't use it in normal conversations|
+| Do                           |చెయ్, <br> చెయ్యండి       |Pannu - పణ్ను, <br>Sey - సెయ్|This is the most common word in conversations, <br>they have the word sey which is very similar to chey in Telugu <br>but it is a formal word for them so they do not use it in normal conversations|
 | Tell                         |చెప్పు, <br> చెప్పండి        |Sollu, <br> Sollunga|                |
 | Talk, Speak                  |మాట్లాడు, <br> మాట్లాడండి    |Pesu - పేసు, <br>Pesunga - పేసుంగ|   |
 | Sit                          |కూర్చో, <br> కూర్చోండి       |Okar - ఒకార్, <br> Okarnga - ఒకరున్గా|                    |
@@ -81,7 +81,7 @@ Eg: Telugu: Ekkadi'ki' Veluthunnavu?
 | Was there                  | ఉండింది                       |ఇరిందిచు                            |
 
 
-## Vegetables and other grocery/food items' names [WIP]
+## Vegetables and other grocery/food items\' names [WIP]
 
 | English                    | Telugu                        | Tamil                             |
 |:---------------------------|:------------------------------|:----------------------------------|
@@ -92,8 +92,8 @@ Eg: Telugu: Ekkadi'ki' Veluthunnavu?
 
 ## Sentence formation
 
-For Telugu people, there isn't much to learn in sentence formation as the way of expression is almost identical between Telugu and Tamil.<br>
-Just think of a sentence in Telugu and swap the Telugu words with the above Tamil words, that's all.
+For Telugu people, there is not much to learn in sentence formation as the way of expression is almost identical between Telugu and Tamil.<br>
+Just think of a sentence in Telugu and swap the Telugu words with the above Tamil words, that is all.
 
 ### Examples
 
@@ -105,7 +105,7 @@ Just think of a sentence in Telugu and swap the Telugu words with the above Tami
 Even though the Telugu transliteration of the Tamil words is given above, they are not pronounced exactly as they are written in Telugu.
 
 Telugu is an Ajanta Bhasha(ending with an Vowel sound), Tamil like other languages(English) is a Halantha Bhasha, so if we speak/end Tamil words smoothly with an vowel sound
-they'll immediately catch that we're not a native Tamil speaker. One should end words with sharp cut.
+they will immediately catch that we are not a native Tamil speaker. One should end words with sharp cut.
 
 Eg: Irukku - ఇరుక్కు should be ended with sharp cut of consonant K - క్క్ and not క్కు.
 Also the ru sound is not రు but ర్
