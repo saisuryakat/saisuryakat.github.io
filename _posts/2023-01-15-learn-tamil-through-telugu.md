@@ -1,7 +1,7 @@
 ---
 title: Learn Tamil through Telugu
 date: 2023-01-15 11:22:00 +0530
-categories: [Languages]
+categories: [Languages, Tamil]
 tags: [general, language]
 ---
 
