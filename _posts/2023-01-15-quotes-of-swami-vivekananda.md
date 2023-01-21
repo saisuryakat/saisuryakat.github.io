@@ -1,8 +1,8 @@
 ---
 title: Quotes of Swami Vivekananda
 date: 2023-01-15 11:22:00 +0530
-categories: [Blogging]
-tags: [writing]
+categories: [Quotes, Swami Vivekananda]
+tags: [quotes, inspiration, spiritual, swami vivekananda]
 ---
 
 ![Swami Vivekananda](/assets/img/swami-vivekananda.jpg)
