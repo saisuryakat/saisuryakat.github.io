@@ -1,112 +1,66 @@
 ---
 title: Learn Tamil through Telugu
 date: 2023-01-15 11:22:00 +0530
-categories: [Blogging]
+categories: [Languages]
 tags: [general, language]
 ---
 
-## Interrogatives
+![Tamil Nadu Temple Cover photo](/assets/img/learn-tamil-cover.jpg)
+Tamil is one of the classical languages...not only of India but also of the world. It is a Dravidian Language primarily spoken by the people of Tamil Nadu.
+Learning Tamil is relatively easy for South Indians especially Telugu people because Telugu Language(like other Dravidian Languages) is influenced by Tamil.  
 
-| English | Telugu            | Tamil    | Remarks                                                                  |
-|:--------|:------------------|:---------|:-------------------------------------------------------------------------|
-|What     |ఏమి, ఏమిటి, ఏంటి  |Enna - ఎన్న                   |Eg: Enna Pandre? - Em chesthunnavu?                    |
-|When     |ఎప్పుడు            |Eppo - ఎప్పొ                   |Similar to Eppudu, just remove du and change ppu to ppo|
-|Where    |ఎక్కడ             |Enge - ఎంగె                    |                                                       |
-|Who      |ఎవరు             |Yar - యార్                     |                                                       |
-|Why      |ఏ, ఏమి, ఎందుకు  |Ee - ఏ, <br> edukku - ఎదుక్కు   |                                                       |
-|How      |ఎలా              |Epdi - ఎప్డి, <br> eppadi - ఎప్పడి |Not to be confused with eppudu in Telugu               |
-|Which    |ఏది               |Edu - ఎదు                      |                                                       |
+For easier understanding and convenience, the learning is divided into the following Chapters.
+Please do remember the structure given is based on my way of learning being a Telugu speaker, I hope that the structure would be useful 
+for others too.
 
-> Unlike Telugu people, Tamils do not add "-ki" or "-ku" after Interrogatives
-Eg: Telugu: Ekkadi"ki" Veluthunnavu?
-        Tamil: Enge Pore? (Telugu Literal: Ekkada Pothunnavu?)
+## Chapters
+- [Interrogatives](/posts/learn-tamil-interrogatives/)
+- [Pronouns](/posts/learn-tamil-pronouns/)
+- [Most common and useful words](/posts/learn-tamil-common-words/)
+- [Common verbs and actions](/posts/learn-tamil-common-verbs/)
+- [Tenses](/posts/learn-tamil-tenses/)
+- Vocabulary
+  + [Vegetables, Food Items and Groceries](/posts/learn-tamil-vocabulary-foods/)
+  + [Relations](/posts/learn-tamil-vocabulary-relations/)
+  + [Animals](/posts/learn-tamil-vocabulary-animals/)
+  + [Miscellaneous](/posts/learn-tamil-vocabulary-miscellaneous/)
+- [Sentence Formation](/posts/learn-tamil-sentence-formation/)
+- [Guidance on Pronunciation](/posts/learn-tamil-pronunciation/)
+
+## Miscellaneous Observations
+
+> Usage of plural(for nouns) is not very strict in Tamil unlike Telugu, so most of the colloquial conversations takes place in singular only
 {: .prompt-info }
 
-## Useful words
+**Eg**: How many fruits have you brought?  
+**Telugu**: Enni pandlu techavu?  
+**Tamil**: - Ethna Pazham konduvandite?  
+**Observation**: Notice Pazham is used instead of Plural Pazhamgal  
+*-gal* is used to make plural of nouns etc in Tamil, like *-lu* is used in Telugu
 
-| English                                   | Telugu            | Tamil                       |
-|:----------------------------------------- |:------------------|:----------------------------|
-| This                                      | ఇది                |Idu - ఇదు                    |
-| That                                      | అది                |Adu - అదు                    |
-| Yes                                       | ఔను                |Aama - ఆమ                   |
-| No, Do not have, does not exist, not present| లేదు, కాదు          |Illa, Ille - ఇల్ల, ఇల్లే         |
-| Okay                                      | సరే                 |Sari - సరి                    |
-| Have, exists, present                     | ఉంది               |Irukku - ఇరుక్కు, Undu - ఉండు |
-| Name                                      | పేరు                | Per - పేర్                    |
-| Enough                                    | చాలు                | Podum - పోదుమ్               |
-| Want, Need                                | కావాలి               | Venum - వేణుమ్, <br> Teva - తేవ |
-| Do not want, No need                       | వద్దు                | Vena, Venam - వేణ , వేణామ్     |
-| Water                                     | నీరు , నీళ్లు          | Tanni - తన్ని, <br> Tanniru - తన్నీరు|
-| Food                                      | తిండి , భోజనం         | Sappadu - సాప్పాడు                 |
+> There is no letter ha(హ) in Tamil Alphabet which brings a huge difference in pronunciation, any common words (esp Sanskrit words) are pronounced very differently compared to Telugu and intonations requiring ha sound will be pronounced without
+{: .prompt-info }
 
-## Pronouns
+**Eg:**
+1. Ha lettered words  
+**Telugu**: Sneha  
+**Tamil**: Snega  
+2. Ha intonation  
+**Telugu**: Bharata/Bhavya  
+**Tamil**: Barata/Bavya  
 
-|English                    |Telugu           |Tamil                 |
-|:--------------------------|:----------------|:---------------------|
-|I                          |నేను              |Naan, Naa - నాన్, నా  |
-|You(Singular)              |నువ్వు             |Nee - నీ              |
-|You(Plural, Respectful)    |మీరు              |Neenga - నీంగ         |
-|He                         |అతను, వాడు, తను |Avan - అవన్           |
-|He (Respectful)            |ఆయన, వారు      |Avar - అవర్           |
-|She                        |ఆమె, అది, తను   |Aval, Ava - అవల్, అవ |
-|She (Respectful)           |ఆవిడ, వారు       |Avanga - అవంగ         |
-|We                         |మేము            |Naanga - నాంగ          |
-|Us                         |మనం            |Namma - నమ్మ           |
-|They                       |వారు, వాళ్ళు      |Avanga - అవంగ         |
+> There is no శ letter in Tamil Alphabet which alters the pronunciation of Sanksrit words starting with the same
+{: .prompt-info }
 
-> In Tamil "-nga" - "oగ" is added to verbs and pronouns Eg: Naanga, Neenga etc to make them sound more formal or respectful just like we add in Telugu "-ndi" - "-oడి" Eg: రండి, కూర్చోండి etc
-{: .prompt-tip }
+**Eg:**  
+**Telugu**: Shakti - శక్తి  
+**Tamil**: Sakti - సక్తి
 
-## Common verbs
+> In Telugu ల, ళ are identical (ళ ల యో రబేధః) but in Tamil there are total 3 la sounds ల,ళ and ఱ(zha) and each letter's usage is distinguished
+{: .prompt-info }
 
-| English                      | Telugu                  | Tamil          | Remarks            |
-|:-----------------------------|:------------------------|:---------------|:-------------------|
-| Come, <br> Come (Respectful) |రా, <br> రండి             |Vaa - వా, <br> Vaanga - వాంగ|Vaa + nga|
-| Go                           |వెళ్ళు(పో), <br> వెళ్ళండి(పోండి)|Po - పో, <br> Ponga - పోంగ|          |
-| Do                           |చెయ్, <br> చెయ్యండి       |Pannu - పణ్ను, <br>Sey - సెయ్|This is the most common word in conversations, <br>they have the word sey which is very similar to chey in Telugu <br>but it is a formal word for them so they do not use it in normal conversations|
-| Tell                         |చెప్పు, <br> చెప్పండి        |Sollu, <br> Sollunga|                |
-| Talk, Speak                  |మాట్లాడు, <br> మాట్లాడండి    |Pesu - పేసు, <br>Pesunga - పేసుంగ|   |
-| Sit                          |కూర్చో, <br> కూర్చోండి       |Okar - ఒకార్, <br> Okarnga - ఒకరున్గా|                    |
-| Stand                        |లే, <br> లెండి, లేవండి      |Endiri - ఎందిరి, <br> Endiringa - ఎందిరింగ|            |
-| Eat                          |తిను, <br> తినండి          |Sapdu - సాప్డు, <br> Sapdunga - సాప్డుంగ|Tamils use sapdunga even for liquids, like Coffee sapdunga🙄🙃 - No offense please                    |
-| Drink                        |తాగు, <br> తాగండి          |Kudi - కుడి, <br> Kudinga - కుడింగ|                        |
-| Read                         |చదువు, <br> చదవండి       |Padi - పడి, <br> Padinga - పడింగ|                      |
-| Write                        |రాయి, <br> రాయండి        |Eludu - ఎ‌ళుదు, <br> Eludunga ఎళుదుంగ|            |
-
-## Tenses [WIP]
-
-| English                    | Telugu                        | Tamil                             |
-|:---------------------------|:------------------------------|:----------------------------------|
-| Is there                   | ఉంది                          | ఇరుక్కు                            |
-| Was there                  | ఉండింది                       |ఇరిందిచు                            |
-
-
-## Vegetables and other grocery/food items\' names [WIP]
-
-| English                    | Telugu                        | Tamil                             |
-|:---------------------------|:------------------------------|:----------------------------------|
-| Onion                      | ఉల్లి , ఉల్లిపాయ                 | Vengayam - వెంగాయం               |
-| Tomato                     | రామ ములగ  కాయ, రామ్ము లక్కాయ | Takkali - తక్కాళి                  |
-
-
-
-## Sentence formation
-
-For Telugu people, there is not much to learn in sentence formation as the way of expression is almost identical between Telugu and Tamil.<br>
-Just think of a sentence in Telugu and swap the Telugu words with the above Tamil words, that is all.
-
-### Examples
-
-- **Telugu**: మీ పేరు ఏంటి? (మీ పేరేంటి?)
-- **Tamil**: Unga per enna? (Unga perenna?)
-
-## Guidance on Pronunciation
-
-Even though the Telugu transliteration of the Tamil words is given above, they are not pronounced exactly as they are written in Telugu.
-
-Telugu is an Ajanta Bhasha(ending with an Vowel sound), Tamil like other languages(English) is a Halantha Bhasha, so if we speak/end Tamil words smoothly with an vowel sound
-they will immediately catch that we are not a native Tamil speaker. One should end words with sharp cut.
-
-Eg: Irukku - ఇరుక్కు should be ended with sharp cut of consonant K - క్క్ and not క్కు.
-Also the ru sound is not రు but ర్
-This is something to be learnt by listening either directly or by watching movies
+**Eg:**  
+**Telugu**: కల్యాణం, కళ్యానం - Both are identical Technically  
+**Tamil**: 
+1. వలి - Pain, వళి - Way
+2. పులి - Tiger, పుళి - Tamarind etc
