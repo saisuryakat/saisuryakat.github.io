@@ -6,11 +6,12 @@ tags: [general, language]
 ---
 
 ![Tamil Nadu Temple Cover photo](/assets/img/learn-tamil-cover.jpg)
-Tamil is one of the classical languages...not only of India but also of the world. It is a Dravidian Language primarily spoken by the people of Tamil Nadu.
-Learning Tamil is relatively easy for South Indians especially Telugu people because Telugu Language(like other Dravidian Languages) is influenced by Tamil.  
+Tamil is one of the classical languages...not only of India but also of the world. It is a Dravidian Language primarily spoken by the people of Tamil Nadu. 
+
+Learning Tamil is relatively easy for South Indians especially for Telugu people because Telugu Language(like other Dravidian Languages) is influenced by Tamil.  
 
 For easier understanding and convenience, the learning is divided into the following Chapters.
-Please do remember the structure given is based on my way of learning being a Telugu speaker, I hope that the structure would be useful 
+Please do remember that the structure given is based on my way of learning being a Telugu speaker, I hope that the structure would be useful 
 for others too.
 
 ## Chapters
@@ -19,6 +20,7 @@ for others too.
 - [Most common and useful words](/posts/learn-tamil-common-words/)
 - [Common verbs and actions](/posts/learn-tamil-common-verbs/)
 - [Tenses](/posts/learn-tamil-tenses/)
+- [Adjectives](/posts/learn-tamil-common-adjectives)
 - Vocabulary
   + [Vegetables, Food Items and Groceries](/posts/learn-tamil-vocabulary-foods/)
   + [Relations](/posts/learn-tamil-vocabulary-relations/)
@@ -60,7 +62,26 @@ for others too.
 {: .prompt-info }
 
 **Eg:**  
-**Telugu**: కల్యాణం, కళ్యానం - Both are identical Technically  
+**Telugu**: కల్యాణం, కళ్యాణం - Both are identical Technically  
 **Tamil**: 
 1. వలి - Pain, వళి - Way
 2. పులి - Tiger, పుళి - Tamarind etc
+
+> Tamils prefer saralas(ga, ja da, dha, ba) to parushas(ka, cha, ta, tha, pa) in pronunciation for some common words of Telugu and Tamil
+{: .prompt-info }
+
+**Eg**  
+ 
+ **Telugu**: Padmanabham
+ **Tamil**: Badmanabam
+
+> In some other places it's the opposite...prefer parushas(ka, cha, ta, tha, pa) to saralas(ga, ja da, dha, ba)
+{: .prompt-info }
+
+**Eg** 
+1. Injury/wound  
+**Telugu**: Gaayam  
+**Tamil**: Kaayam(Which is a different word altogether in Telugu - Body)  
+2. Quick/Fast  
+**Telugu**: Sheeghram  
+**Tamil**: Seekram/Seegram  
