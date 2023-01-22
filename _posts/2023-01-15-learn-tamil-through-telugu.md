@@ -3,6 +3,7 @@ title: Learn Tamil through Telugu
 date: 2023-01-15 11:22:00 +0530
 categories: [Languages, Tamil]
 tags: [general, language]
+pin: true
 ---
 
 ![Tamil Nadu Temple Cover photo](/assets/img/learn-tamil-cover.jpg)
