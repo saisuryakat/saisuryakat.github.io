@@ -1,6 +1,6 @@
 ---
 title: Learn Kannada through Telugu
-date: 2023-01-15 11:22:00 +0530
+date: 2024-06-07 18:57:21 +0530
 categories: [Languages, Kannada]
 tags: [general, language]
 ---
